@@ -1,0 +1,241 @@
+@media (max-width: 1440px) {
+  header {
+    display: flex;
+    max-width: 1440px;
+    max-height: 77px;
+  }
+  .sign-in {
+    margin-left: 345px !important;
+  }
+  .footer-txt {
+    color: gray;
+    font-family: "Roboto", serif;
+    font-weight: 300;
+    font-style: normal;
+    margin-left: 8px
+  }
+  .SEO-img {
+    position: absolute !important;
+    right: 156px !important;
+    left: 914px !important;
+    top: 170px !important;
+  }
+  .contact-sales {
+    max-width: 200px;
+    max-height: 80px;
+    padding: 10px 20px;
+    font-size: 16px;
+  }
+  .contact-sales2 {
+    max-width: 200px;
+    max-height: 80px;
+    padding: 10px 20px;
+    font-size: 16px;
+  }
+  .footer-btn {
+    max-width: 200px;
+    max-height: 80px;
+    padding: 10px 20px;
+    font-size: 16px;
+  }
+  .nav {
+    display: flex;
+    top: 20px;
+  }
+  .logo {
+    max-width: 140px;
+    max-height: 34px;
+  }
+  .nav .sign-in {
+    color: #5d78ff;
+  }
+  .container {
+    max-width: 1216px;
+    max-height: 372px;
+    margin-top: 340px;
+    overflow: hidden;
+  }
+  .swiper-wrapper {
+    max-width: 302px;
+    max-height: 372px;
+  }
+  .footer {
+    display: flex !important;
+    max-width: 719px;
+    max-height: 40px;
+    margin-top: 40px !important;
+    margin-right: 200px !important;
+    margin-left: 201px !important;
+  }
+  .footer-btn {
+    max-width: 259px;
+    max-height: 40px;
+    font-size: 14px;
+    margin-right: 5px;
+  }
+  .img-group {
+    display: flex;
+    gap: 10px;
+    top: 10px !important;
+  }
+  .h22 {
+    display: flex !important;
+    position: absolute !important;
+    top: 990px !important;
+    right: 400px !important;
+    left: 120px;
+    font-size: 30px !important;
+  }
+  .swiper-slide {
+    max-width: 320px;
+  }
+  li {
+    margin-top: 20px;
+  }
+  .header-btn {
+    margin-top: 10px;
+    margin-bottom: 10px;
+  }
+  .stats-info {
+    max-width: 665px;
+    max-height: 312px;
+    margin-top: 60px;
+    margin-left: 40px;
+  }
+  .SEO-info1 {
+    margin-bottom: 20px;
+  }
+  .img-group {
+    top: 60px !important;
+    gap: 24px;
+  }
+  .info-text {
+    position: absolute;
+    top: 65px !important;
+    left: 0 !important;
+  }
+  .analitic-img1 {
+    position: relative;
+    margin-left: 340px !important;
+    top: -430px !important;
+    max-width: 240px;
+    max-height: 200px;
+  }
+  .analitic-img2 {
+    position: relative;
+    max-width: 200px;
+    max-height: 140px;
+    margin-left: 580px !important;
+    top: -540px !important;
+  }
+  .analitic-img3 {
+    position: relative;
+    margin-left: 785px !important;
+    top: -520px !important;
+  }
+  .br-laptop {
+    display: none;
+  }
+  .img1 {
+    display: none;
+  }
+  .br-tablet {
+    display: none;
+  }
+  .br-laptop3 {
+    display: none;
+  }
+  .header-btn {
+    margin-top: 10px !important;
+}
+label {
+  position: relative;
+}
+.name {
+  top: -26px;
+  left: -23px;
+}
+.tel {
+  position: relative;
+  left: -178px;
+  top: 10px;
+}
+select {
+  position: relative;
+  left: -126px;
+  top: 36px;
+}
+label {
+  font-size: 12px;
+}
+.text {
+  color: #909090;
+  font-family: "Roboto", serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 14px;
+}
+.footer-logo {
+  margin-right: 10px;
+}
+.windFooter-content {
+  font-size: 14px;
+  margin-left: 100px;
+  color: #909090;
+}
+.windFooter-content a {
+  color: #909090;
+}
+.windFooter-input1 {
+  display: flex;
+  max-width: 295px;
+  max-height: 30px;
+}
+.window-text {
+  margin-bottom: 24px;
+}
+.footer-conf {
+  color: #4362fa;
+  font-family: "Roboto", serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 14px;
+}
+.windFooter {
+  margin-top: 30px;
+  margin-left: 15px;
+  text-align: left;
+}
+.window-info select {
+  height: 37px;
+  border-radius: 7px;
+}
+.window-info {
+  width: 340px;
+  margin-left: 35px;
+}
+.window-ifno label {
+  position: relative;
+}
+.input-tel {
+  margin-bottom: 10px;
+  width: 263px;
+  height: 37px;
+  margin-left: 30px;
+  border-color: #D5D5D6;
+  border-radius: 8px;
+}
+.input-name {
+  margin-top: 10px;
+  width: 316px;
+  height: 37px;
+  margin-left: -60px;
+  border-radius: 8px;
+}
+.contact-sales3 {
+  margin-right: 20px;
+}
+.window-h1 {
+  margin-top: -20px;
+}
+}
